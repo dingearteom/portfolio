@@ -1,0 +1,4 @@
+class StopModel(Exception):
+    pass
+
+

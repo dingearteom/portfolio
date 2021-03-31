@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+pip3 install git+https://github.com/noscode/demographic_inference_data.git
+pip3 install git+https://github.com/dingearteom/GPyOpt.git
+

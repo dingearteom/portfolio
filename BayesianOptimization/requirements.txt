@@ -1,0 +1,7 @@
+GPyOpt
+pygad
+numpy
+tqdm
+matplotlib
+
+# deminf data
