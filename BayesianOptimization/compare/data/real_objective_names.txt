@@ -1,1 +1,0 @@
-['2_ButAllA_3_McC', '2_ButSynB2_5_McC', '2_YRI_CEU_6_Gut', '3_YRI_CEU_CHB_13_Jou', '3_YRI_CEU_CHB_13_Gut', '4_YRI_CEU_CHB_JPT_17_Jou']
