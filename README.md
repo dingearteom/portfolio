@@ -1,10 +1,10 @@
 # portfolio
 
-* BOFromScratch - моя реализация с нуля баесовской оптимизации
-* GAN - моя реализация GAN для соревнования https://www.kaggle.com/c/gan-getting-started
-* Hierarchical_clusterization - применение иерархической кластеризации на весьма надуманной задаче
-* NeuralNetworkFromSratch - там у меня написана нейронная сеть с нуля с подсчетом всех градиентов и back-propogation, и нейронная сеть с помощью pytorch.
-* algorithms_olympiad_programming - реализация FFT и декартова дерева с массовыми обновлениями
-* recommender_system - задача рекомендации, реализованы  CollaborativeFiltering: ALS, SVD разложение, ContentBased model: Word2Vec
-* test_of_statistical_hypotheses - проверка статестических гипотез
-* time_series - решение задачи прогнозирования временного ряда с помощью ARIMA и Prophet
+* BOFromScratch - my implementation of bayesian optimization from scratch
+* GAN - my implementation of GAN for competition https://www.kaggle.com/c/gan-getting-started
+* Hierarchical_clusterization - use of hierachical clusterization on some task
+* NeuralNetworkFromSratch - there is a my neural network from scratch and neural network with pytorch.
+* algorithms_olympiad_programming - my implementation of FFT and cartesian tree with mass updates
+* recommender_system - recommendation problem, CollaborativeFiltering: ALS, SVD, ContentBased model: Word2Vec
+* test_of_statistical_hypotheses - test of statistical hypotheses
+* time_series - solution of problem of time series prediction with ARIMA and Prophet
